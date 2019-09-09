@@ -7,7 +7,7 @@ const open = require('open');
 const compression = require('compression');
 const cors = require('cors');
 
-const port = 3031;
+const port = 3030;
 
 const app = express()
   .use(cors())
