@@ -1,0 +1,6 @@
+# Dependency directories
+compile_errors/*
+lib/*
+library/*
+node_modules/*
+public/*
