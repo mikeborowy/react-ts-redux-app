@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.3.3",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "cssnano": "^4.1.10",
     "history": "^4.9.0",
     "lodash": "^4.17.15",
